@@ -6227,10 +6227,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/codemirror@^0.0.100":
-  version "0.0.100"
-  resolved "https://registry.npmjs.org/@types/codemirror/-/codemirror-0.0.100.tgz#3ebdf1514208d73f38c25925d9cf9399a42a7471"
-  integrity sha512-4jGmu1T8vpQrJCe8cbe3KveiJmK2UAt3rZO2qE2sPoMhGLuwW0cMzFYJLyXebbRJg5G3RbuUXLip1IHPUESkFA==
+"@types/codemirror@^0.0.106":
+  version "0.0.106"
+  resolved "https://registry.npmjs.org/@types/codemirror/-/codemirror-0.0.106.tgz#0e4adcf51c4ff201ac25adba22771938dbcf1d72"
+  integrity sha512-o2bJWaI56+J1IuzUyb1KKNLs0Tm1sqdosGeSneicQZpg9s59++8Nz70KOD6IACiZWI6b+H0H+UE+JRkgTUO3Ww==
   dependencies:
     "@types/tern" "*"
 
